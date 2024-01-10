@@ -16,3 +16,4 @@
 // } else if (num2 === num1) {
 //     console.log("These numbers are equal")
 // } 
+const meals = ["pizza", "burger", "fries"]
