@@ -16,4 +16,26 @@
 // } else if (num2 === num1) {
 //     console.log("These numbers are equal")
 // } 
-const meals = ["pizza", "burger", "fries"]
+// const meals = ["pizza", "burger", "fries"]
+
+
+// console.log(meals.length)
+
+// const students = []
+
+// students.push("Cat", "Ty", "Lincoln")
+
+// students.unshift("Josh")
+
+// console.log(students.slice(0, 3))
+
+
+// console.log(students)
+
+const perfectTemp = 125
+let teaTemp = 130
+
+while (teaTemp > perfectTemp) {
+    teaTemp -= 1;
+    console.log(`tea temperature is now: ${teaTemp}`);
+}
